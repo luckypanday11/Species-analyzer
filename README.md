@@ -29,6 +29,8 @@ the application predicts whether it belongs to **Setosa**, **Versicolor**, or **
 
 ## 🖥️ Application Preview
 
+<img width="959" height="503" alt="image" src="https://github.com/user-attachments/assets/190bf38e-90a8-474e-ba42-0bd5d2ab060a" />
+
 
 ## 🛠 Tech Stack
 
